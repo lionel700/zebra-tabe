@@ -1,0 +1,30 @@
+body{
+    border-style:double;
+    font-size: larger;
+    background-color:rgb(26, 47, 104);
+}
+table{
+    width: 50%;
+    margin: auto;
+   padding: 5 0;
+    border-bottom: 3px solid #0e0c0c;
+    background:white;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    border: none;
+    width: 40%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+   color: BLACK;
+   background: rgb(184, 196, 26);
+   margin: 50px 200px 50px 220px;
+   text-align: center;
+   font-size: larger;
+}
